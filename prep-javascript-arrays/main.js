@@ -10,5 +10,5 @@ console.log('3rd element of array is', thirdElement);
 var length = languages.length;
 console.log('length of array is', length);
 
-var lastElement = length - 1;
+var lastElement = languages[length - 1];
 console.log('last element is', lastElement);
